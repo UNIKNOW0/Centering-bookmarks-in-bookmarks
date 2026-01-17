@@ -1,0 +1,10 @@
+/* Centered Bookmarks Only */
+
+/* Центрирование панели закладок */
+#PersonalToolbar {
+    justify-content: center !important;
+}
+
+#PlacesToolbarItems {
+    justify-content: center !important;
+}
